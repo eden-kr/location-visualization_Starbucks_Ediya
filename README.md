@@ -1,7 +1,7 @@
 # location-visualization_Starbucks_Ediya
 
 
-blue radius = ediya
+blue radius = ediya </br>
 green radius = starbucks
 
 ![seoul](https://user-images.githubusercontent.com/64695947/80898767-63cda180-8d42-11ea-9158-01c154c70698.png)
